@@ -1,6 +1,14 @@
 This is SysML
 
 
+$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$   (for display)
+\\[\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.\\] (also for display)
+\\(\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.\\) (for inline)
+
+
+
+
+
 
 ![](assets/sysml-d1f2d.png)
 
